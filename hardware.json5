@@ -1,0 +1,8 @@
+// HARDWARE
+// ========
+// Specify the hardware for this project.
+{
+    "board_name" : "stm32f746g-disco",
+    "chip_name"  : "stm32f746ng",
+    "probe_name" : "stlink-v2-1"
+}
