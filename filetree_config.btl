@@ -1,0 +1,16 @@
+{
+  "version-generated": 1,
+  "version-minimum": 1,
+  "items": {
+    "source/ide/iar/startup_stm32f746xx.s": {
+      "type": "file",
+      "name": "startup_stm32f746xx.s",
+      "relative-path": "source/ide/iar/startup_stm32f746xx.s",
+      "source-analysis-status-file": 0,
+      "source-analysis-status-file-manual": "force-excluded",
+      "source-analysis-status-hdir": null,
+      "source-analysis-type": "source",
+      "source-analysis-mode": null
+    }
+  }
+}
